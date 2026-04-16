@@ -15,18 +15,19 @@ It demonstrates basic CRUD operations and model relationships.
 ---
 
 ##  Project Setup
-config
+# config
     - db.js
-models
+# models
     -customer.js
     -index.js
     -order.js
     -OrderItem.js
     product.js
-routes
+# routes
     -CustomerRoutes.js
     -OrderRoutes.js
     -ProductRoutes.js
+## base files
 .env
 .gitignore
 app.js
