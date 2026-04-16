@@ -28,7 +28,7 @@ It demonstrates basic CRUD operations and model relationships.
     -OrderRoutes.js
     -ProductRoutes.js
 ## base files
-.env
-.gitignore
-app.js
-README.ms
+-env
+-gitignore
+-app.js
+-README.md
